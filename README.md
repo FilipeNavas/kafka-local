@@ -1,3 +1,5 @@
+# Kafka Local Development for Mac M1 users
+
 Goal
 ====
 ### To be an alternative to [Lenses](https://github.com/lensesio/fast-data-dev) and [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) for local development, **for Mac M1 users.**
