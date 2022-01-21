@@ -1,8 +1,8 @@
-# Kafka Local Development for Mac M1 users
+# Kafka Local Development alternative (especially for Mac M1 users)
 
 Goal
 ====
-### To be an alternative to [Lenses](https://github.com/lensesio/fast-data-dev) and [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) for local development, **for Mac M1 users.**
+### To be an alternative to [Lenses](https://github.com/lensesio/fast-data-dev) and [Confluent Platform](https://docs.confluent.io/platform/current/quickstart/ce-docker-quickstart.html) for local development, **especially for Mac M1 users.**
 
 ---
 This docker-compose is based on the [demos available from Confluent on Github](https://github.com/confluentinc/demo-scene). It uses many of Confluent images, except the one for Control Center. That is because Control Center doesn't work on Mac M1 yet - even under emulation. For a GUI we use Kafka UI.
